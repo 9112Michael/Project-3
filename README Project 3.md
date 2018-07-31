@@ -1,15 +1,17 @@
-#Classic Arcade Game Clone: **Udacity** FEND Project #3#
+# Classic Arcade Game Clone: **Udacity** FEND Project #3 #
 
-##How To Play##
+## How To Play ##
 
-**Controls**
+**Controls**  
+
  Using the arrow keys on your keyboard, move the character from the grass to the water without coming into contact
  with any of the _enemy_ bugs!  
  
- **Installation**
+ **Installation**  
+ 
 Play this version of the once popular video game **Frogger** by opening the _index.html_ file in your favorite browser!
 
-##Project Dependencies##
+## Project Dependencies ##
 
 **Languages**
 
